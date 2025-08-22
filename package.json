@@ -1,0 +1,20 @@
+{
+  "name": "Kurokaii",
+  "version": "3.0.0",
+  "description": "script ngl",
+  "main": "ngl.js",
+  "scripts": {
+    "start": "node Ngl_spam.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10"
+  }
+}
